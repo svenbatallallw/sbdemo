@@ -1,0 +1,8 @@
+# API team owns the API folder
+/api/ @api-team
+
+# Frontend team owns the UI folder
+/ui/ @frontend-team
+
+# Security team owns senstive config files
+/config/security/ @security-team
